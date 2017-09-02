@@ -20,3 +20,18 @@ time 1504239977
 old [description:"test" entry:"1504239556" modified:"1504239976" status:"pending" uuid:"6edd24b7-fbd4-4343-b15e-c38d1a3966e1"]
 new [description:"test" end:"1504239977" entry:"1504239556" modified:"1504239977" status:"completed" uuid:"6edd24b7-fbd4-4343-b15e-c38d1a3966e1"]
 ---
+time 1504380840
+new [description:"Update schema database" entry:"1504380840" modified:"1504380840" status:"pending" uuid:"47c455c4-d7c0-4d43-8097-0731e30dd261"]
+---
+time 1504380955
+old [description:"Update schema database" entry:"1504380840" modified:"1504380840" status:"pending" uuid:"47c455c4-d7c0-4d43-8097-0731e30dd261"]
+new [description:"Update schema database" entry:"1504380840" modified:"1504380955" project:"schema" status:"pending" uuid:"47c455c4-d7c0-4d43-8097-0731e30dd261"]
+---
+time 1504380983
+old [description:"Update schema database" entry:"1504380840" modified:"1504380955" project:"schema" status:"pending" uuid:"47c455c4-d7c0-4d43-8097-0731e30dd261"]
+new [description:"Update schema database" entry:"1504380840" modified:"1504380983" project:"schema" status:"pending" tags:"database" uuid:"47c455c4-d7c0-4d43-8097-0731e30dd261"]
+---
+time 1504381208
+old [description:"Update schema database" entry:"1504380840" modified:"1504380983" project:"schema" status:"pending" tags:"database" uuid:"47c455c4-d7c0-4d43-8097-0731e30dd261"]
+new [description:"Update schema database" due:"1502175600" entry:"1504380840" modified:"1504381208" project:"schema" status:"pending" tags:"database" uuid:"47c455c4-d7c0-4d43-8097-0731e30dd261"]
+---

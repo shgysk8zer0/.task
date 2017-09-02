@@ -4,3 +4,7 @@
 {"description":"test","entry":"20170901T041916Z","modified":"20170901T042152Z","start":"20170901T042152Z","status":"pending","uuid":"6edd24b7-fbd4-4343-b15e-c38d1a3966e1"}
 {"description":"test","entry":"20170901T041916Z","modified":"20170901T042616Z","status":"pending","uuid":"6edd24b7-fbd4-4343-b15e-c38d1a3966e1"}
 {"description":"test","end":"20170901T042617Z","entry":"20170901T041916Z","modified":"20170901T042617Z","status":"completed","uuid":"6edd24b7-fbd4-4343-b15e-c38d1a3966e1"}
+{"description":"Update schema database","entry":"20170902T193400Z","modified":"20170902T193400Z","status":"pending","uuid":"47c455c4-d7c0-4d43-8097-0731e30dd261"}
+{"description":"Update schema database","entry":"20170902T193400Z","modified":"20170902T193555Z","project":"schema","status":"pending","uuid":"47c455c4-d7c0-4d43-8097-0731e30dd261"}
+{"description":"Update schema database","entry":"20170902T193400Z","modified":"20170902T193623Z","project":"schema","status":"pending","tags":["database"],"uuid":"47c455c4-d7c0-4d43-8097-0731e30dd261"}
+{"description":"Update schema database","due":"20170808T070000Z","entry":"20170902T193400Z","modified":"20170902T194008Z","project":"schema","status":"pending","tags":["database"],"uuid":"47c455c4-d7c0-4d43-8097-0731e30dd261"}
